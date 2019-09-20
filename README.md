@@ -1,1 +1,1 @@
-# content-analyzer-regex
+# Content Analyzer RegEx Samples
